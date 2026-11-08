@@ -1,5 +1,11 @@
 # Voron Switchwire
-**[CLICK HERE TO DOWNLOAD](https://voron.zip/done/VSW.zip)**
+
+### Download the STLs
+
+[![Stealthburner](https://img.shields.io/badge/Download-Stealthburner-e3342b?style=for-the-badge)](https://voron.zip/done/VSW.zip)
+[![DownDraft](https://img.shields.io/badge/Download-DownDraft-e3342b?style=for-the-badge)](https://voron.zip/done/VSW-downdraft.zip)
+
+Older releases, single parts and a 3D preview: **[voron.zip](https://voron.zip/#m=switchwire)**
 
 The above link includes the stealthburner toolhead files which are compatible with several of the printers in the Voron lineup. 
 To keep things organized, StealthBurner’s files are maintained separately. 
